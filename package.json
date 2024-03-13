@@ -1,0 +1,15 @@
+{
+  "name": "jest-pnpm-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "npm": "use pnpm (install with <corepack enable>)",
+    "yarn": "use pnpm (install with <corepack enable>)",
+    "pnpm": ">= 8.7.0"
+  },
+  "packageManager": "pnpm@8.7.0"
+}
